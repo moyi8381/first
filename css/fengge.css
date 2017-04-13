@@ -1,0 +1,48 @@
+.fengge{
+	width: 1210px;
+	margin:0 auto;
+}
+.fengge-content{
+	width: 1210px;
+	text-align: center;
+	border-top: 1px dashed #AFAFAF;
+	border-bottom: 1px dashed #AFAFAF;
+	border-left: 1px solid #848484;
+	border-right: 1px solid #848484;
+}
+.fengge-top{
+	border-bottom: 1px dashed #AFAFAF;
+	width: 1200px;
+	text-align: left;
+	padding: 20px 0 0 10px;
+	font-size: 14px;
+	letter-spacing: 1px;
+}
+.fengge-top a{
+	color: #000;
+	font-size: 14px;
+}
+.fengge-top a:hover{
+	color: #D63229;
+	position: relative;
+	top: 1px;
+}
+.new-style p{
+	display: block;
+	font-size: 14px;
+	line-height: 30px;
+}
+.fengge-bottom{
+	text-align: left;
+	font-family: 宋体;
+}
+.fengge-bottom a{
+	color: #000;
+	text-decoration: underline;
+}
+.fengge-bottom a:hover{
+	color: #D63229;
+	position: relative;
+	top: 1px;
+	text-decoration: none;
+}

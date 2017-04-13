@@ -1,0 +1,47 @@
+.kezhao{
+	width: 1210px;
+	margin:0 auto;
+}
+.kezhao-content{
+	width: 1210px;
+	text-align: center;
+	border-top: 1px dashed #AFAFAF;
+	border-bottom: 1px dashed #AFAFAF;
+	border-left: 1px solid #848484;
+	border-right: 1px solid #848484;
+}
+.kezhao-top{
+	border-bottom: 1px dashed #AFAFAF;
+	width: 1200px;
+	text-align: left;
+	padding: 20px 0 0 10px;
+	font-size: 14px;
+	letter-spacing: 1px;
+}
+.kezhao-top a{
+	color: #000;
+	font-size: 14px;
+}
+.kezhao-top a:hover{
+	color: #D63229;
+	position: relative;
+	top: 1px;
+}
+.kezhao-bottom{
+	text-align: left;
+	font-family: 宋体;
+	margin-top: 40px;
+}
+.nonnative-silces p{
+	font-size: 14px;
+}
+.kezhao-bottom a{
+	color: #000;
+	text-decoration: underline;
+}
+.kezhao-bottom a:hover{
+	color: #D63229;
+	position: relative;
+	top: 1px;
+	text-decoration: none;
+}

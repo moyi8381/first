@@ -1,0 +1,13 @@
+.huodong{
+	width: 1210px;
+	margin:0 auto;
+}
+.huodong-content{
+	width: 1160px;
+	padding: 10px 20px 0;
+	text-align: center;
+	border-top: 1px dashed #AFAFAF;
+	border-bottom: 1px dashed #AFAFAF;
+	border-left: 1px solid #848484;
+	border-right: 1px solid #848484;
+}

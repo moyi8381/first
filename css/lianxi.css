@@ -1,0 +1,19 @@
+.lianxi{
+	width: 1210px;
+	margin:0 auto;
+}
+.lianxi-content{
+	width: 1160px;
+	padding: 10px 20px 0;
+	border-top: 1px dashed #AFAFAF;
+	border-bottom: 1px dashed #AFAFAF;
+	border-left: 1px solid #848484;
+	border-right: 1px solid #848484;
+}
+.lianxi-content p{
+	letter-spacing: 2px;
+	padding-top: 5px;
+}
+.lianxi-content b{
+	font-weight: bold;
+}

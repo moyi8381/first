@@ -1,0 +1,22 @@
+.us{
+	width: 1210px;
+	height: 450px;
+	margin:0 auto;
+}
+.us-content{
+	width: 1160px;
+	height: 360px;
+	padding: 10px 20px 0;
+	border-top: 1px dashed #AFAFAF;
+	border-bottom: 1px dashed #AFAFAF;
+	border-left: 1px solid #848484;
+	border-right: 1px solid #848484;
+}
+.us-content p{
+	widows: 1;
+	font-size: 16px;
+	font-family: 宋体;
+}
+.us-content b{
+	font-weight: bold;
+}
